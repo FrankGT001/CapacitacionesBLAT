@@ -1,5 +1,5 @@
 
-[LogoBLAT](Imagenes/IconoBlat.jpg)
+![LogoBLAT](Imagenes/IconoBlat.jpg)
 
 # CapacitacionesBLAT
 Este repositorio esta dedicado para todo el contenido orientado a las Capacitaciones de BLAT
