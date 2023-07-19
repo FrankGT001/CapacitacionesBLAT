@@ -1,0 +1,1 @@
+# Imagenes de logotipo de la empresa BLAT
