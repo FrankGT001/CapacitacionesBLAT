@@ -1,5 +1,5 @@
 
-![LogoBLAT](./Capacitaciones%20BLAT/Imagenes/IconoBlat.jpg)
+![LogoBLAT](./Capacitaciones%20BLAT/Imagenes/IconoBlat2.png)
 
 # CapacitacionesBLAT
 Este repositorio esta dedicado para detallar todo el contenido orientado a las Capacitaciones impartidas por BLAT.
