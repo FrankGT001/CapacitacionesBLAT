@@ -23,9 +23,10 @@ Al finalizar el curso, los estudiantes serán capaces de:
 
 |Nivel| Sesion |Detalle| Duración |
 |-----|--------|-------|----------|
-| Básico | Sesion 1 | Introducción a Microsoft Excel |8 Horas|
-| Intermedio | Sesion 2 | Análisis de datos con funciones y tablas dinámicas con Microsoft Excel | 8 Horas |
-| Avanzado | Sesion 3 | Automatización de libros de trabajo con Microsoft Excel | 8 Horas |
-| Avanzado | Sesion 4 | Manejo de datos con funciones avanzadas y complementos con Microsoft Excel | 8 Horas |
-| Avanzado II | Sesion 5 | Introducción y manejo de dashboards con Microsoft Power Bi | 8 Horas |
-| Avanzado II | Sesion 5 | Programando libros de trabajo usando VBA con Microsoft Excel | 8 Horas |
+| Básico | Sesion 1 | [Introducción a Microsoft Excel](./Temarios%20Microsoft%20Excel/Basico.md) |8 Horas|
+| Intermedio | Sesion 2 | [Análisis de datos con funciones y tablas dinámicas con Microsoft Excel](./Temarios%20Microsoft%20Excel/Intermedio.md) | 8 Horas |
+| Avanzado | Sesion 3 | [Automatización de libros de trabajo con Microsoft Excel](./Temarios%20Microsoft%20Excel/Avanzado1.md) | 8 Horas |
+| Avanzado | Sesion 4 | [Manejo de datos con funciones avanzadas y complementos con Microsoft Excel](./Temarios%20Microsoft%20Excel/Avanzado2_1.md) | 8 Horas |
+| Avanzado II | Sesion 5 |[Introducción y manejo de dashboards con Microsoft Power Bi](./Temarios%20Microsoft%20Excel/Avanzado2_2.md) | 8 Horas |
+| Avanzado II | Sesion 6 | Programando libros de trabajo usando VBA con Microsoft Excel | 8 Horas |
+ 
